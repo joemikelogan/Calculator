@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="count_initial_value">0</string>
+    <string name="count_equals">=</string>
+    <string name="count_add">+</string>
+    <string name="count_subtract">-</string>
+    <string name="count_multiply">x</string>
+    <string name="count_divide">/</string>
+    <string name="input_number">input</string>
+</resources>
